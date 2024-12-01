@@ -42,7 +42,7 @@ pip install streamlit
 Run the game using the following command:
 
 ```bash
-streamlit run bulls_and_cows.py
+streamlit run BullsANDCows.py
 ```
 
 This will launch the game in your default web browser. 🌐
