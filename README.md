@@ -62,10 +62,15 @@ Have fun, challenge yourself, and see how quickly you can guess the secret numbe
 **Screenshots 📸**
 
  ![Interface](https://github.com/Geek-yash666/BullsANDCows/blob/main/captures/a.png)
+ ---
  ![](https://github.com/Geek-yash666/BullsANDCows/blob/main/captures/b.png)
+ ---
  ![](https://github.com/Geek-yash666/BullsANDCows/blob/main/captures/c.png)
+ ---
  ![](https://github.com/Geek-yash666/BullsANDCows/blob/main/captures/d.png)
+ ---
  ![](https://github.com/Geek-yash666/BullsANDCows/blob/main/captures/e.png)
+ ---
 
 
 
