@@ -53,14 +53,21 @@ This will launch the game in your default web browser. 🌐
 *   **First Guess:** Start with a number where all digits are unique to maximize information gain.
 *  **Analyzing Feedback:** Use the bulls and cows feedback to eliminate possibilities and refine your guesses.
 *   **Keep Track:** Pay attention to the statistics provided to refine your strategy.
+---
+## **If you want to test the game, Click [here](https://bullsandcows.streamlit.app/) to play the game.**
+
+Have fun, challenge yourself, and see how quickly you can guess the secret number! Good luck! 🍀
+---
 
 **Screenshots 📸**
 
-(Add screenshots here to showcase the game's interface and features.)
+ ![Interface](https://github.com/Geek-yash666/BullsANDCows/blob/main/captures/a.png)
+ ![](https://github.com/Geek-yash666/BullsANDCows/blob/main/captures/b.png)
+ ![](https://github.com/Geek-yash666/BullsANDCows/blob/main/captures/c.png)
+ ![](https://github.com/Geek-yash666/BullsANDCows/blob/main/captures/d.png)
+ ![](https://github.com/Geek-yash666/BullsANDCows/blob/main/captures/e.png)
 
 
 
 
-If you want to test the game, Click [here](https://bullsandcows.streamlit.app/) to play the game.
 
-Have fun, challenge yourself, and see how quickly you can guess the secret number! Good luck! 🍀
